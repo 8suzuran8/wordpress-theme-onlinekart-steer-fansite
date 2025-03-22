@@ -7,8 +7,8 @@ Screenshot
 License
 ------------------------------------ */
 
-sweet-shop WordPress Theme, Copyright 2023 suzuran
-sweet-shop is distributed under the terms of the GNU GPL, Version 3 (or later)
+onlinekart-steer-fansite WordPress Theme, Copyright 2023 suzuran
+onlinekart-steer-fansite is distributed under the terms of the GNU GPL, Version 3 (or later)
 
 This program is free software:
 You can redistribute it and/or modify it under the terms of GNU General Public License version 2 (or later).
@@ -34,47 +34,37 @@ Installation
 3. Click the "Install Now" button.
 
 === Manual installation ===
-1. Upload the "sweet-shop" folder to the "/wp-content/themes/" directory.
+1. Upload the "onlinekart-steer-fansite" folder to the "/wp-content/themes/" directory.
 
 === Activiation and Use ===
 1. Activate the Theme through the "Themes" menu in WordPress.
-2. Go to Appearance => "sweet-shop Settings" page in customize. Complete the input of all necessary, please click on the "Save changes" button.
+2. Go to Appearance => "onlinekart-steer-fansite Settings" page in customize. Complete the input of all necessary, please click on the "Save changes" button.
 
 /* ------------------------------------
 Customize
 ------------------------------------ */
-Sweets Shop Design v1.0.0(2016/05/19)
+Onlinekart Steer Fansite v1.0.0(2016/05/19)
 
 [Description]
-This design is sweets shop website design.
-It is refreshing blue-based color scheme,
-And it is the layout and clean a room in the interval.
-It was including cuteness ish sweets shop.
+This design is onlinekart steer fan site design.
 
 Because the layout is difficult to read next to too wide, this was a fixed width.
-That is in the margin was to arrange wispy sweets shop emblem.
+That is in the margin was to arrange wispy onlinekart-steer-fansite emblem.
 
 [File List]
 LICENSE
 README.md
-header-no-repeat1.svg
-header-no-repeat2.svg
-header-photo.jpg
-header-photo.svg
-no-repeat.svg
-repeat-x.svg
-repeat.png
 screenshot.png
 style.css
-sweets.png
+OnlinekartSteerFansiteKit/*
 
 [Create File]
-Create your shop name image from name.png.
+Create your site name image from name.png.
 
-Create your shop emblem from repeat.png.
+Create your site emblem from repeat.png.
 
-Edit your shop photo in no-repeat.png.
-shop photo is not change scale.
+Edit your site photo in no-repeat.png.
+site photo is not change scale.
 You must edit style.css, if you change photo scale.
 
 Upload these images in 'Media' menu.
@@ -84,17 +74,17 @@ Edit these image's url in style.css.
 Upload style.css.
 
 [Customize]
-Set your shop name in 'Site Title' in 'Customizer -> Site Identity'.
+Set your site name in 'Site Title' in 'Customizer -> Site Identity'.
 
-Set your shop name image in 'Site Title Image Url' in 'Customizer -> Site Identity'.
+Set your site name image in 'Site Title Image Url' in 'Customizer -> Site Identity'.
 
-Check 'Show breadcrumbs' in 'Customizer -> sweet-shop Settings'.
+Check 'Show breadcrumbs' in 'Customizer -> onlinekart-steer-fansite Settings'.
 
-Check 'Display font size button' in 'Customizer -> sweet-shop Settings'.
+Check 'Display font size button' in 'Customizer -> onlinekart-steer-fansite Settings'.
 
-Check 'Disabled style.css' in 'Customizer -> sweet-shop Settings'.
+Check 'Disabled style.css' in 'Customizer -> onlinekart-steer-fansite Settings'.
 
-Set url of style.css in 'Add CSS file' in 'Customizer -> sweet-shop Settings'.
+Set url of style.css in 'Add CSS file' in 'Customizer -> onlinekart-steer-fansite Settings'.
 
 [Create Top Page]
 You create 'news' category.
