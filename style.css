@@ -983,6 +983,10 @@ aside a:visited {
 		width: calc(100% + 1em);
 	}
 
+    body > header > a {
+        right: 9em;
+    }
+
 	body > nav {
 		height: 1em;
 		position: absolute;
@@ -1058,13 +1062,12 @@ aside a:visited {
 		width: 100%;
 	}
 
-	body > nav li {
-		line-height: 2em;
-	}
-
-	body > nav li:not(:last-child) {
-		margin-bottom: .5em;
-	}
+    body > nav a {
+        display: block;
+        line-height: 2em;
+        height: 2em;
+        margin: 0;
+    }
 
 	nav > div .children,
 	nav > div .sub-menu {
