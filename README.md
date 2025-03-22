@@ -1,7 +1,7 @@
 /* ------------------------------------
 Screenshot
 ------------------------------------ */
-<img alt="画面のスクリーンショット" src="https://github.com/8suzuran8/wordpress-theme-sweet-shop/blob/5a180a85b6fc105688543ddc8d0aaa3bc3ba10e8/screenshot.png">
+<img alt="画面のスクリーンショット" src="https://github.com/8suzuran8/wordpress-theme-onlinekart-steer-fansite/blob/c03d87e3b2f3ac65a08d1710d2e421735b09d513/screenshot.png">
 
 /* ------------------------------------
 License
