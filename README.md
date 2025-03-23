@@ -43,7 +43,7 @@ Installation
 /* ------------------------------------
 Customize
 ------------------------------------ */
-Onlinekart Steer Fansite v1.0.0(2016/05/19)
+Onlinekart Steer Fansite v1.0.0(2025/03/23)
 
 [Description]
 This design is onlinekart steer fan site design.
