@@ -7,7 +7,7 @@ Screenshot
 License
 ------------------------------------ */
 
-onlinekart-steer-fansite WordPress Theme, Copyright 2023 suzuran
+onlinekart-steer-fansite WordPress Theme, Copyright 2025 suzuran
 onlinekart-steer-fansite is distributed under the terms of the GNU GPL, Version 3 (or later)
 
 This program is free software:
