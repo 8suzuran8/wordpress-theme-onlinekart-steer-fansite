@@ -264,6 +264,10 @@ Tags:
         line-height: 1em;
     }
 
+    body > nav li:hover ul.sub-menu:has(:not(ul.sub-menu)) {
+        background-color: #00407f;
+    }
+
     body > aside {
 		top: calc(100vw * 0.5 + 7.65em);
     }
@@ -272,4 +276,8 @@ Tags:
 		/* use BreadcrumbList */
 		top: calc(100vw * 0.5 + 11.25em);
 	}
+
+    body.disabled-use-title > ol + main + aside {
+        top: 41.8em;
+    }
 }
